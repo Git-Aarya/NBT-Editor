@@ -66,3 +66,6 @@ A graphical NBT (Named Binary Tag) editor built with Python and PyQt6. This appl
     * Right-click on a tag in the tree view to open a context menu for editing, adding, deleting, copying, or pasting tags.
     * If a ByteArray, IntArray, or LongArray tag is selected, its content will be displayed in the Hex Viewer.
     * Use the search bar or the "Edit" > "Search" menu option to find specific tags.
+
+
+![NBT Editor ScreenShot](screenshot.png)
