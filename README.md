@@ -36,9 +36,8 @@ A graphical NBT (Named Binary Tag) editor built with Python and PyQt6. This appl
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Git-Aarya/NBT-Editor
     ```
-    (Replace `<your-repository-url>` with the actual URL of your GitHub repository after you've created it.)
 
 2.  **Navigate to the project directory:**
     ```bash
